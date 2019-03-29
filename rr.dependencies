@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "android_device_oneplus_msm8998-common",
+    "target_path": "device/oneplus/msm8998-common",
+    "branch": "pie",
+    "remote": "rr-d"
+  },
+  {
+    "repository" : "TheMuppets/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch": "lineage-16.0",
+    "remote": "github"
+  },
+  {
+    "repository" : "LineageOS/android_device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch": "lineage-16.0",
+    "remote": "github"
+  },
+  {
+    "repository" : "LineageOS/android_kernel_oneplus_msm8998",
+    "target_path": "kernel/oneplus/msm8998",
+    "branch": "lineage-16.0",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0",
+    "remote": "github"
+  }
+]
